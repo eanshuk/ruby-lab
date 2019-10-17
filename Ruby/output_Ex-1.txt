@@ -1,0 +1,11 @@
+Anurags-MacBook-Air:Ruby anuragshukla$ sudo ruby Ex-1.rb
+# Exercise 1, part 1
+10
+20
+
+# Exercise 1, part 2
+aircraft_1 coordinates are:  10 20
+aircraft_2 coordinates are:  30 40
+aircraft_3 coordinates are:  50 60
+aircraft_4 coordinates are:  70 80
+aircraft_5 coordinates are:  80 90
